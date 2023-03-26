@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-demo/static/css/main.d6156120.css",
-    "main.js": "/react-demo/static/js/main.c29feaba.js",
+    "main.js": "/react-demo/static/js/main.3596b36c.js",
     "static/media/a_mswwaste.png": "/react-demo/static/media/a_mswwaste.b1a6d9b621167be49f06.png",
     "static/media/1-9-768x768.jpg": "/react-demo/static/media/1-9-768x768.7bf04a10c6b0584280c5.jpg",
     "static/media/Urban-plants-waste-collection.jpg": "/react-demo/static/media/Urban-plants-waste-collection.cd4e2a7a436a31a6fded.jpg",
     "index.html": "/react-demo/index.html",
     "main.d6156120.css.map": "/react-demo/static/css/main.d6156120.css.map",
-    "main.c29feaba.js.map": "/react-demo/static/js/main.c29feaba.js.map"
+    "main.3596b36c.js.map": "/react-demo/static/js/main.3596b36c.js.map"
   },
   "entrypoints": [
     "static/css/main.d6156120.css",
-    "static/js/main.c29feaba.js"
+    "static/js/main.3596b36c.js"
   ]
 }
