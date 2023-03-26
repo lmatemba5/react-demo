@@ -1,13 +1,13 @@
 import ContextAPIProvider from "./components/apis/ContextAPIProvider";
 import MainLayout from "./components/templates/MainLayout";
-import { HasRouter as BrowserRouter, Routes, Route } from "react-router-dom";
+import { HasRouter as Router, Routes, Route } from "react-router-dom";
 import Accounts from "./components/admin/Accounts";
 import Home from "./components/templates/Home";
 import { Payments, Dashboard, Clients, Login } from "./components/sharedpages"
 
 export default function App() {
     return (
-      <BrowserRouter>
+      <Router>
             <ContextAPIProvider>
                 <Routes>
                     <Route path="/dashboard" exact element={<MainLayout />}>
@@ -20,6 +20,6 @@ export default function App() {
                     <Route index path="/login" exact element={<Login />} />
                 </Routes>
             </ContextAPIProvider>
-        </BrowserRouter>
+        </Router>
     )
 }
