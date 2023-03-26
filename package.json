@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "version": "0.1.0",
-  "homepage": "https://lmatemba5.github.io/react-demo/",
+  "homepage": "https://lmatemba5.github.io/react-demo/#/",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.7.5",
