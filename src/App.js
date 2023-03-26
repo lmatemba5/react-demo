@@ -1,6 +1,6 @@
 import ContextAPIProvider from "./components/apis/ContextAPIProvider";
 import MainLayout from "./components/templates/MainLayout";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HasRouter as BrowserRouter, Routes, Route } from "react-router-dom";
 import Accounts from "./components/admin/Accounts";
 import Home from "./components/templates/Home";
 import { Payments, Dashboard, Clients, Login } from "./components/sharedpages"
