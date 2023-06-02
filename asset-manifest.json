@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6156120.css",
-    "main.js": "/static/js/main.b436e45f.js",
-    "static/media/a_mswwaste.png": "/static/media/a_mswwaste.b1a6d9b621167be49f06.png",
-    "static/media/1-9-768x768.jpg": "/static/media/1-9-768x768.7bf04a10c6b0584280c5.jpg",
-    "static/media/Urban-plants-waste-collection.jpg": "/static/media/Urban-plants-waste-collection.cd4e2a7a436a31a6fded.jpg",
-    "index.html": "/index.html",
-    "main.d6156120.css.map": "/static/css/main.d6156120.css.map",
-    "main.b436e45f.js.map": "/static/js/main.b436e45f.js.map"
+    "main.css": "/react-demo/static/css/main.d6156120.css",
+    "main.js": "/react-demo/static/js/main.3d929f30.js",
+    "static/media/a_mswwaste.png": "/react-demo/static/media/a_mswwaste.b1a6d9b621167be49f06.png",
+    "static/media/1-9-768x768.jpg": "/react-demo/static/media/1-9-768x768.7bf04a10c6b0584280c5.jpg",
+    "static/media/Urban-plants-waste-collection.jpg": "/react-demo/static/media/Urban-plants-waste-collection.cd4e2a7a436a31a6fded.jpg",
+    "index.html": "/react-demo/index.html",
+    "main.d6156120.css.map": "/react-demo/static/css/main.d6156120.css.map",
+    "main.3d929f30.js.map": "/react-demo/static/js/main.3d929f30.js.map"
   },
   "entrypoints": [
     "static/css/main.d6156120.css",
-    "static/js/main.b436e45f.js"
+    "static/js/main.3d929f30.js"
   ]
 }
